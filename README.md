@@ -28,7 +28,7 @@ Preview:
 
 ## Tech Stack
 - **Frontend:** HTML, CSS,JS
--**Backend:Node JS
+Backend:Node JS
 
 
 
